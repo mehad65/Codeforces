@@ -17,7 +17,7 @@ namespace A._Cards
             Console.WriteLine();
             int zcount = 0;
             int ncount = 0;
-            foreach(var c in str.ToString())
+            foreach(var c in str.ToString().ToLower())
             {
                 if (c == 'z')
                 {

@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\bin\Debug\net5.0\A. Is it rated.exe
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\bin\Debug\net5.0\A. Is it rated.deps.json
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\bin\Debug\net5.0\A. Is it rated.runtimeconfig.json
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\bin\Debug\net5.0\A. Is it rated.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\bin\Debug\net5.0\A. Is it rated.dll
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\bin\Debug\net5.0\ref\A. Is it rated.dll
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\bin\Debug\net5.0\A. Is it rated.pdb
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\obj\Debug\net5.0\A. Is it rated.csprojAssemblyReference.cache
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\obj\Debug\net5.0\A. Is it rated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\obj\Debug\net5.0\A. Is it rated.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\obj\Debug\net5.0\A. Is it rated.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\obj\Debug\net5.0\A. Is it rated.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\obj\Debug\net5.0\A. Is it rated.dll
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\obj\Debug\net5.0\ref\A. Is it rated.dll
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\obj\Debug\net5.0\A. Is it rated.pdb
+C:\Users\mehad\Desktop\Mihadul\Codeforces\Codeforces\A. Is it rated\obj\Debug\net5.0\A. Is it rated.genruntimeconfig.cache
