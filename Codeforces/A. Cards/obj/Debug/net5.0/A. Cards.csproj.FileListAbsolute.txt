@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\bin\Debug\net5.0\A. Cards.exe
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\bin\Debug\net5.0\A. Cards.deps.json
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\bin\Debug\net5.0\A. Cards.runtimeconfig.json
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\bin\Debug\net5.0\A. Cards.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\bin\Debug\net5.0\A. Cards.dll
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\bin\Debug\net5.0\ref\A. Cards.dll
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\bin\Debug\net5.0\A. Cards.pdb
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\obj\Debug\net5.0\A. Cards.csprojAssemblyReference.cache
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\obj\Debug\net5.0\A. Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\obj\Debug\net5.0\A. Cards.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\obj\Debug\net5.0\A. Cards.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\obj\Debug\net5.0\A. Cards.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\obj\Debug\net5.0\A. Cards.dll
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\obj\Debug\net5.0\ref\A. Cards.dll
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\obj\Debug\net5.0\A. Cards.pdb
+C:\Users\mehad\Desktop\Mihadul\Codeforces\.git\Codeforces\A. Cards\obj\Debug\net5.0\A. Cards.genruntimeconfig.cache
