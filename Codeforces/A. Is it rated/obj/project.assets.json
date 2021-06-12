@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mehad\\Desktop\\Mihadul\\Codeforces\\Codeforces\\A. Is it rated\\A. Is it rated.csproj",
+      "projectUniqueName": "C:\\Users\\mehad\\Desktop\\Codeforces\\Codeforces\\A. Is it rated\\A. Is it rated.csproj",
       "projectName": "A. Is it rated",
-      "projectPath": "C:\\Users\\mehad\\Desktop\\Mihadul\\Codeforces\\Codeforces\\A. Is it rated\\A. Is it rated.csproj",
+      "projectPath": "C:\\Users\\mehad\\Desktop\\Codeforces\\Codeforces\\A. Is it rated\\A. Is it rated.csproj",
       "packagesPath": "C:\\Users\\mehad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mehad\\Desktop\\Mihadul\\Codeforces\\Codeforces\\A. Is it rated\\obj\\",
+      "outputPath": "C:\\Users\\mehad\\Desktop\\Codeforces\\Codeforces\\A. Is it rated\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mehad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
