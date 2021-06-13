@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\bin\Debug\net5.0\A. Boy or Girl.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\bin\Debug\net5.0\A. Boy or Girl.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\bin\Debug\net5.0\A. Boy or Girl.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\bin\Debug\net5.0\A. Boy or Girl.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\bin\Debug\net5.0\A. Boy or Girl.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\bin\Debug\net5.0\ref\A. Boy or Girl.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\bin\Debug\net5.0\A. Boy or Girl.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\obj\Debug\net5.0\A. Boy or Girl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\obj\Debug\net5.0\A. Boy or Girl.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\obj\Debug\net5.0\A. Boy or Girl.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\obj\Debug\net5.0\A. Boy or Girl.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\obj\Debug\net5.0\A. Boy or Girl.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\obj\Debug\net5.0\ref\A. Boy or Girl.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\obj\Debug\net5.0\A. Boy or Girl.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\obj\Debug\net5.0\A. Boy or Girl.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Boy or Girl\obj\Debug\net5.0\A. Boy or Girl.csproj.AssemblyReference.cache

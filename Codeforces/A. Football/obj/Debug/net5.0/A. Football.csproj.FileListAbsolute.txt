@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\bin\Debug\net5.0\A. Football.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\bin\Debug\net5.0\A. Football.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\bin\Debug\net5.0\A. Football.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\bin\Debug\net5.0\A. Football.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\bin\Debug\net5.0\A. Football.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\bin\Debug\net5.0\ref\A. Football.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\bin\Debug\net5.0\A. Football.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\obj\Debug\net5.0\A. Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\obj\Debug\net5.0\A. Football.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\obj\Debug\net5.0\A. Football.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\obj\Debug\net5.0\A. Football.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\obj\Debug\net5.0\A. Football.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\obj\Debug\net5.0\ref\A. Football.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\obj\Debug\net5.0\A. Football.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\obj\Debug\net5.0\A. Football.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Football\obj\Debug\net5.0\A. Football.csproj.AssemblyReference.cache

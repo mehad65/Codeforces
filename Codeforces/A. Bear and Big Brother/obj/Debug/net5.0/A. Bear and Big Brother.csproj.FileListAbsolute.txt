@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\bin\Debug\net5.0\A. Bear and Big Brother.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\bin\Debug\net5.0\A. Bear and Big Brother.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\bin\Debug\net5.0\A. Bear and Big Brother.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\bin\Debug\net5.0\A. Bear and Big Brother.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\bin\Debug\net5.0\A. Bear and Big Brother.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\bin\Debug\net5.0\ref\A. Bear and Big Brother.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\bin\Debug\net5.0\A. Bear and Big Brother.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\obj\Debug\net5.0\A. Bear and Big Brother.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\obj\Debug\net5.0\A. Bear and Big Brother.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\obj\Debug\net5.0\A. Bear and Big Brother.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\obj\Debug\net5.0\A. Bear and Big Brother.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\obj\Debug\net5.0\A. Bear and Big Brother.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\obj\Debug\net5.0\ref\A. Bear and Big Brother.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\obj\Debug\net5.0\A. Bear and Big Brother.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\obj\Debug\net5.0\A. Bear and Big Brother.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bear and Big Brother\obj\Debug\net5.0\A. Bear and Big Brother.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\bin\Debug\net5.0\A. Petya and Strings.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\bin\Debug\net5.0\A. Petya and Strings.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\bin\Debug\net5.0\A. Petya and Strings.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\bin\Debug\net5.0\A. Petya and Strings.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\bin\Debug\net5.0\A. Petya and Strings.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\bin\Debug\net5.0\ref\A. Petya and Strings.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\bin\Debug\net5.0\A. Petya and Strings.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\obj\Debug\net5.0\A. Petya and Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\obj\Debug\net5.0\A. Petya and Strings.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\obj\Debug\net5.0\A. Petya and Strings.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\obj\Debug\net5.0\A. Petya and Strings.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\obj\Debug\net5.0\A. Petya and Strings.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\obj\Debug\net5.0\ref\A. Petya and Strings.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\obj\Debug\net5.0\A. Petya and Strings.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\obj\Debug\net5.0\A. Petya and Strings.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Petya and Strings\obj\Debug\net5.0\A. Petya and Strings.csproj.AssemblyReference.cache

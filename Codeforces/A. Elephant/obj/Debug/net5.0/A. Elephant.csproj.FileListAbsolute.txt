@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\bin\Debug\net5.0\A. Elephant.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\bin\Debug\net5.0\A. Elephant.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\bin\Debug\net5.0\A. Elephant.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\bin\Debug\net5.0\A. Elephant.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\bin\Debug\net5.0\A. Elephant.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\bin\Debug\net5.0\ref\A. Elephant.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\bin\Debug\net5.0\A. Elephant.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\obj\Debug\net5.0\A. Elephant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\obj\Debug\net5.0\A. Elephant.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\obj\Debug\net5.0\A. Elephant.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\obj\Debug\net5.0\A. Elephant.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\obj\Debug\net5.0\A. Elephant.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\obj\Debug\net5.0\ref\A. Elephant.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\obj\Debug\net5.0\A. Elephant.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\obj\Debug\net5.0\A. Elephant.genruntimeconfig.cache

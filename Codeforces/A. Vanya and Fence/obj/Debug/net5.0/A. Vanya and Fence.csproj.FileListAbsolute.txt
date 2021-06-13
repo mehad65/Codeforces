@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\bin\Debug\net5.0\A. Vanya and Fence.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\bin\Debug\net5.0\A. Vanya and Fence.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\bin\Debug\net5.0\A. Vanya and Fence.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\bin\Debug\net5.0\A. Vanya and Fence.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\bin\Debug\net5.0\A. Vanya and Fence.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\bin\Debug\net5.0\ref\A. Vanya and Fence.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\bin\Debug\net5.0\A. Vanya and Fence.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\obj\Debug\net5.0\A. Vanya and Fence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\obj\Debug\net5.0\A. Vanya and Fence.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\obj\Debug\net5.0\A. Vanya and Fence.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\obj\Debug\net5.0\A. Vanya and Fence.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\obj\Debug\net5.0\A. Vanya and Fence.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\obj\Debug\net5.0\ref\A. Vanya and Fence.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\obj\Debug\net5.0\A. Vanya and Fence.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\obj\Debug\net5.0\A. Vanya and Fence.genruntimeconfig.cache

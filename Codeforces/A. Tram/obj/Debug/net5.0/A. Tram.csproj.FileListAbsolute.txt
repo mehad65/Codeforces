@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\bin\Debug\net5.0\A. Tram.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\bin\Debug\net5.0\A. Tram.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\bin\Debug\net5.0\A. Tram.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\bin\Debug\net5.0\A. Tram.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\bin\Debug\net5.0\A. Tram.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\bin\Debug\net5.0\ref\A. Tram.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\bin\Debug\net5.0\A. Tram.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\obj\Debug\net5.0\A. Tram.csproj.AssemblyReference.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\obj\Debug\net5.0\A. Tram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\obj\Debug\net5.0\A. Tram.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\obj\Debug\net5.0\A. Tram.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\obj\Debug\net5.0\A. Tram.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\obj\Debug\net5.0\A. Tram.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\obj\Debug\net5.0\ref\A. Tram.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\obj\Debug\net5.0\A. Tram.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Tram\obj\Debug\net5.0\A. Tram.genruntimeconfig.cache

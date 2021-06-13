@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Ultra-Fast Mathematician\bin\Debug\net5.0\A. Ultra-Fast Mathematician.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Ultra-Fast Mathematician\bin\Debug\net5.0\A. Ultra-Fast Mathematician.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Ultra-Fast Mathematician\bin\Debug\net5.0\A. Ultra-Fast Mathematician.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Ultra-Fast Mathematician\bin\Debug\net5.0\A. Ultra-Fast Mathematician.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Ultra-Fast Mathematician\bin\Debug\net5.0\A. Ultra-Fast Mathematician.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Ultra-Fast Mathematician\bin\Debug\net5.0\ref\A. Ultra-Fast Mathematician.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Ultra-Fast Mathematician\bin\Debug\net5.0\A. Ultra-Fast Mathematician.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net5.0\A. Ultra-Fast Mathematician.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net5.0\A. Ultra-Fast Mathematician.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net5.0\A. Ultra-Fast Mathematician.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net5.0\A. Ultra-Fast Mathematician.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net5.0\A. Ultra-Fast Mathematician.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net5.0\ref\A. Ultra-Fast Mathematician.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net5.0\A. Ultra-Fast Mathematician.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net5.0\A. Ultra-Fast Mathematician.genruntimeconfig.cache

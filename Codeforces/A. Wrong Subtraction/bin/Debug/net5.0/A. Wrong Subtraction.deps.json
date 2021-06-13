@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "A. Wrong Subtraction/1.0.0": {
+        "runtime": {
+          "A. Wrong Subtraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Wrong Subtraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

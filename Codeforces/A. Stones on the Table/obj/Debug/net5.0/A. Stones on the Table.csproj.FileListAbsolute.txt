@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\bin\Debug\net5.0\A. Stones on the Table.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\bin\Debug\net5.0\A. Stones on the Table.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\bin\Debug\net5.0\A. Stones on the Table.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\bin\Debug\net5.0\A. Stones on the Table.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\bin\Debug\net5.0\A. Stones on the Table.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\bin\Debug\net5.0\ref\A. Stones on the Table.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\bin\Debug\net5.0\A. Stones on the Table.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\obj\Debug\net5.0\A. Stones on the Table.csproj.AssemblyReference.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\obj\Debug\net5.0\A. Stones on the Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\obj\Debug\net5.0\A. Stones on the Table.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\obj\Debug\net5.0\A. Stones on the Table.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\obj\Debug\net5.0\A. Stones on the Table.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\obj\Debug\net5.0\A. Stones on the Table.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\obj\Debug\net5.0\ref\A. Stones on the Table.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\obj\Debug\net5.0\A. Stones on the Table.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Stones on the Table\obj\Debug\net5.0\A. Stones on the Table.genruntimeconfig.cache

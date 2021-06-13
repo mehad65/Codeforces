@@ -21,7 +21,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Word Capitalization", "A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Bear and Big Brother", "A. Bear and Big Brother\A. Bear and Big Brother.csproj", "{CD4788BC-85DD-4A4C-A1ED-64256F6FEB1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Beautiful Matrix", "A. Beautiful Matrix\A. Beautiful Matrix.csproj", "{66B109BA-44BC-4FC3-9026-46902B61D3A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Beautiful Matrix", "A. Beautiful Matrix\A. Beautiful Matrix.csproj", "{66B109BA-44BC-4FC3-9026-46902B61D3A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Football", "A. Football\A. Football.csproj", "{38F4F20F-3C7D-4CB8-B627-E1C5D7EFA5BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Tram", "A. Tram\A. Tram.csproj", "{4260AF26-886C-4C29-8BF3-34BD07256D9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Ultra-Fast Mathematician", "A. Ultra-Fast Mathematician\A. Ultra-Fast Mathematician.csproj", "{E64626DD-225E-4C9A-A17B-33D9EC10159C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Elephant", "A. Elephant\A. Elephant.csproj", "{3BA09C9F-80F3-40E9-841D-2FE36E70DE88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Vanya and Fence", "A. Vanya and Fence\A. Vanya and Fence.csproj", "{F052D1A2-25B0-4117-9FB2-3CEABAA72CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Wrong Subtraction", "A. Wrong Subtraction\A. Wrong Subtraction.csproj", "{292A1B5C-6E59-4E30-97B3-1F9E91D90AF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +81,30 @@ Global
 		{66B109BA-44BC-4FC3-9026-46902B61D3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66B109BA-44BC-4FC3-9026-46902B61D3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66B109BA-44BC-4FC3-9026-46902B61D3A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F4F20F-3C7D-4CB8-B627-E1C5D7EFA5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F4F20F-3C7D-4CB8-B627-E1C5D7EFA5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F4F20F-3C7D-4CB8-B627-E1C5D7EFA5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F4F20F-3C7D-4CB8-B627-E1C5D7EFA5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4260AF26-886C-4C29-8BF3-34BD07256D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4260AF26-886C-4C29-8BF3-34BD07256D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4260AF26-886C-4C29-8BF3-34BD07256D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4260AF26-886C-4C29-8BF3-34BD07256D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E64626DD-225E-4C9A-A17B-33D9EC10159C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64626DD-225E-4C9A-A17B-33D9EC10159C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64626DD-225E-4C9A-A17B-33D9EC10159C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64626DD-225E-4C9A-A17B-33D9EC10159C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA09C9F-80F3-40E9-841D-2FE36E70DE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA09C9F-80F3-40E9-841D-2FE36E70DE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA09C9F-80F3-40E9-841D-2FE36E70DE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA09C9F-80F3-40E9-841D-2FE36E70DE88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F052D1A2-25B0-4117-9FB2-3CEABAA72CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F052D1A2-25B0-4117-9FB2-3CEABAA72CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F052D1A2-25B0-4117-9FB2-3CEABAA72CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F052D1A2-25B0-4117-9FB2-3CEABAA72CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292A1B5C-6E59-4E30-97B3-1F9E91D90AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292A1B5C-6E59-4E30-97B3-1F9E91D90AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292A1B5C-6E59-4E30-97B3-1F9E91D90AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292A1B5C-6E59-4E30-97B3-1F9E91D90AF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

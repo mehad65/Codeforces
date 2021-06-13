@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\bin\Debug\net5.0\A. String Task.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\bin\Debug\net5.0\A. String Task.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\bin\Debug\net5.0\A. String Task.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\bin\Debug\net5.0\A. String Task.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\bin\Debug\net5.0\A. String Task.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\bin\Debug\net5.0\ref\A. String Task.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\bin\Debug\net5.0\A. String Task.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\obj\Debug\net5.0\A. String Task.csproj.AssemblyReference.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\obj\Debug\net5.0\A. String Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\obj\Debug\net5.0\A. String Task.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\obj\Debug\net5.0\A. String Task.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\obj\Debug\net5.0\A. String Task.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\obj\Debug\net5.0\A. String Task.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\obj\Debug\net5.0\ref\A. String Task.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\obj\Debug\net5.0\A. String Task.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. String Task\obj\Debug\net5.0\A. String Task.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\bin\Debug\net5.0\A. Word Capitalization.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\bin\Debug\net5.0\A. Word Capitalization.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\bin\Debug\net5.0\A. Word Capitalization.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\bin\Debug\net5.0\A. Word Capitalization.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\bin\Debug\net5.0\A. Word Capitalization.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\bin\Debug\net5.0\ref\A. Word Capitalization.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\bin\Debug\net5.0\A. Word Capitalization.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\obj\Debug\net5.0\ref\A. Word Capitalization.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.csproj.AssemblyReference.cache

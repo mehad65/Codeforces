@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\bin\Debug\net5.0\A. Bit++.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\bin\Debug\net5.0\A. Bit++.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\bin\Debug\net5.0\A. Bit++.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\bin\Debug\net5.0\A. Bit++.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\bin\Debug\net5.0\A. Bit++.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\bin\Debug\net5.0\ref\A. Bit++.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\bin\Debug\net5.0\A. Bit++.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\obj\Debug\net5.0\A. Bit++.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\obj\Debug\net5.0\A. Bit++.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\obj\Debug\net5.0\A. Bit++.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\obj\Debug\net5.0\A. Bit++.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\obj\Debug\net5.0\A. Bit++.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\obj\Debug\net5.0\ref\A. Bit++.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\obj\Debug\net5.0\A. Bit++.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\obj\Debug\net5.0\A. Bit++.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Bit++\obj\Debug\net5.0\A. Bit++.csproj.AssemblyReference.cache

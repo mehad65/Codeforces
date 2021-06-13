@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\bin\Debug\net5.0\ref\A. Beautiful Matrix.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\obj\Debug\net5.0\ref\A. Beautiful Matrix.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.csproj.AssemblyReference.cache
