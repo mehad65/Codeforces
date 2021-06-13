@@ -9,17 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Is it rated", "A. Is it 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Boy or Girl", "A. Boy or Girl\A. Boy or Girl.csproj", "{0FC80B28-9436-4603-8E90-0548DC48C5F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. String Task", "A. String Task\A. String Task.csproj", "{2495574F-3E5A-4A19-BE04-097DED0D0BAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. String Task", "A. String Task\A. String Task.csproj", "{2495574F-3E5A-4A19-BE04-097DED0D0BAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Stones on the Table", "A. Stones on the Table\A. Stones on the Table.csproj", "{9D65A942-7C2C-4E84-BED5-783AA53AFB28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Stones on the Table", "A. Stones on the Table\A. Stones on the Table.csproj", "{9D65A942-7C2C-4E84-BED5-783AA53AFB28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Petya and Strings", "A. Petya and Strings\A. Petya and Strings.csproj", "{FAA2FCD6-737E-48D0-81E3-3285268FA809}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Petya and Strings", "A. Petya and Strings\A. Petya and Strings.csproj", "{FAA2FCD6-737E-48D0-81E3-3285268FA809}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Bit++", "A. Bit++\A. Bit++.csproj", "{59AF769E-FAB8-4C78-AAC9-377A16BB5C76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Bit++", "A. Bit++\A. Bit++.csproj", "{59AF769E-FAB8-4C78-AAC9-377A16BB5C76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Word Capitalization", "A. Word Capitalization\A. Word Capitalization.csproj", "{D0676DCE-EBAC-4CAE-B312-A06EB17F7205}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Word Capitalization", "A. Word Capitalization\A. Word Capitalization.csproj", "{D0676DCE-EBAC-4CAE-B312-A06EB17F7205}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Bear and Big Brother", "A. Bear and Big Brother\A. Bear and Big Brother.csproj", "{CD4788BC-85DD-4A4C-A1ED-64256F6FEB1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Bear and Big Brother", "A. Bear and Big Brother\A. Bear and Big Brother.csproj", "{CD4788BC-85DD-4A4C-A1ED-64256F6FEB1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Beautiful Matrix", "A. Beautiful Matrix\A. Beautiful Matrix.csproj", "{66B109BA-44BC-4FC3-9026-46902B61D3A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{CD4788BC-85DD-4A4C-A1ED-64256F6FEB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD4788BC-85DD-4A4C-A1ED-64256F6FEB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD4788BC-85DD-4A4C-A1ED-64256F6FEB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B109BA-44BC-4FC3-9026-46902B61D3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B109BA-44BC-4FC3-9026-46902B61D3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B109BA-44BC-4FC3-9026-46902B61D3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B109BA-44BC-4FC3-9026-46902B61D3A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
