@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Petya and Strings", "A. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Bit++", "A. Bit++\A. Bit++.csproj", "{59AF769E-FAB8-4C78-AAC9-377A16BB5C76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Word Capitalization", "A. Word Capitalization\A. Word Capitalization.csproj", "{D0676DCE-EBAC-4CAE-B312-A06EB17F7205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Bear and Big Brother", "A. Bear and Big Brother\A. Bear and Big Brother.csproj", "{CD4788BC-85DD-4A4C-A1ED-64256F6FEB1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{59AF769E-FAB8-4C78-AAC9-377A16BB5C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59AF769E-FAB8-4C78-AAC9-377A16BB5C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59AF769E-FAB8-4C78-AAC9-377A16BB5C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0676DCE-EBAC-4CAE-B312-A06EB17F7205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0676DCE-EBAC-4CAE-B312-A06EB17F7205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0676DCE-EBAC-4CAE-B312-A06EB17F7205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0676DCE-EBAC-4CAE-B312-A06EB17F7205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD4788BC-85DD-4A4C-A1ED-64256F6FEB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4788BC-85DD-4A4C-A1ED-64256F6FEB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4788BC-85DD-4A4C-A1ED-64256F6FEB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4788BC-85DD-4A4C-A1ED-64256F6FEB1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
