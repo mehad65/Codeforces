@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. String Task", "A. String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Stones on the Table", "A. Stones on the Table\A. Stones on the Table.csproj", "{9D65A942-7C2C-4E84-BED5-783AA53AFB28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Petya and Strings", "A. Petya and Strings\A. Petya and Strings.csproj", "{FAA2FCD6-737E-48D0-81E3-3285268FA809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Bit++", "A. Bit++\A. Bit++.csproj", "{59AF769E-FAB8-4C78-AAC9-377A16BB5C76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{9D65A942-7C2C-4E84-BED5-783AA53AFB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D65A942-7C2C-4E84-BED5-783AA53AFB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D65A942-7C2C-4E84-BED5-783AA53AFB28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA2FCD6-737E-48D0-81E3-3285268FA809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA2FCD6-737E-48D0-81E3-3285268FA809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA2FCD6-737E-48D0-81E3-3285268FA809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA2FCD6-737E-48D0-81E3-3285268FA809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59AF769E-FAB8-4C78-AAC9-377A16BB5C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AF769E-FAB8-4C78-AAC9-377A16BB5C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AF769E-FAB8-4C78-AAC9-377A16BB5C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AF769E-FAB8-4C78-AAC9-377A16BB5C76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

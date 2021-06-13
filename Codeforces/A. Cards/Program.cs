@@ -8,16 +8,11 @@ namespace A._Cards
         static void Main(string[] args)
         {
             int a = int.Parse(Console.ReadLine());
-            
-            StringBuilder str = new StringBuilder();
-            for (int i = 0; i < a; i++)
-            {
-                str.Append(Console.ReadKey().KeyChar);
-            }
-            Console.WriteLine();
+
+            string str = Console.ReadLine();
             int zcount = 0;
             int ncount = 0;
-            foreach(var c in str.ToString().ToLower())
+            foreach(var c in str.ToLower())
             {
                 if (c == 'z')
                 {
