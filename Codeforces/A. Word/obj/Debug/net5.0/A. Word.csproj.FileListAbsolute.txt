@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\bin\Debug\net5.0\A. Word.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\bin\Debug\net5.0\A. Word.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\bin\Debug\net5.0\A. Word.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\bin\Debug\net5.0\A. Word.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\bin\Debug\net5.0\A. Word.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\bin\Debug\net5.0\ref\A. Word.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\bin\Debug\net5.0\A. Word.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\obj\Debug\net5.0\A. Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\obj\Debug\net5.0\A. Word.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\obj\Debug\net5.0\A. Word.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\obj\Debug\net5.0\A. Word.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\obj\Debug\net5.0\A. Word.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\obj\Debug\net5.0\ref\A. Word.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\obj\Debug\net5.0\A. Word.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\obj\Debug\net5.0\A. Word.genruntimeconfig.cache

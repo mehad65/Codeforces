@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\bin\Debug\net5.0\A. Young Physicist.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\bin\Debug\net5.0\A. Young Physicist.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\bin\Debug\net5.0\A. Young Physicist.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\bin\Debug\net5.0\A. Young Physicist.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\bin\Debug\net5.0\A. Young Physicist.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\bin\Debug\net5.0\ref\A. Young Physicist.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\bin\Debug\net5.0\A. Young Physicist.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\obj\Debug\net5.0\A. Young Physicist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\obj\Debug\net5.0\A. Young Physicist.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\obj\Debug\net5.0\A. Young Physicist.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\obj\Debug\net5.0\A. Young Physicist.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\obj\Debug\net5.0\A. Young Physicist.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\obj\Debug\net5.0\ref\A. Young Physicist.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\obj\Debug\net5.0\A. Young Physicist.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\obj\Debug\net5.0\A. Young Physicist.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Young Physicist\obj\Debug\net5.0\A. Young Physicist.csproj.AssemblyReference.cache
