@@ -13,3 +13,4 @@ C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\obj\Debug\net5.0\A. Ele
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\obj\Debug\net5.0\ref\A. Elephant.dll
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\obj\Debug\net5.0\A. Elephant.pdb
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\obj\Debug\net5.0\A. Elephant.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Elephant\obj\Debug\net5.0\A. Elephant.csproj.AssemblyReference.cache

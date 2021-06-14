@@ -13,3 +13,4 @@ C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Wrong Subtraction\obj\Debug\net5
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Wrong Subtraction\obj\Debug\net5.0\ref\A. Wrong Subtraction.dll
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.pdb
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.csproj.AssemblyReference.cache

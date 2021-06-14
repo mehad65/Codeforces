@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Nearly Lucky Number\bin\Debug\net5.0\A. Nearly Lucky Number.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Nearly Lucky Number\bin\Debug\net5.0\A. Nearly Lucky Number.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Nearly Lucky Number\bin\Debug\net5.0\A. Nearly Lucky Number.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Nearly Lucky Number\bin\Debug\net5.0\A. Nearly Lucky Number.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Nearly Lucky Number\bin\Debug\net5.0\A. Nearly Lucky Number.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Nearly Lucky Number\bin\Debug\net5.0\ref\A. Nearly Lucky Number.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Nearly Lucky Number\bin\Debug\net5.0\A. Nearly Lucky Number.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Nearly Lucky Number\obj\Debug\net5.0\A. Nearly Lucky Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Nearly Lucky Number\obj\Debug\net5.0\A. Nearly Lucky Number.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Nearly Lucky Number\obj\Debug\net5.0\A. Nearly Lucky Number.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Nearly Lucky Number\obj\Debug\net5.0\A. Nearly Lucky Number.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Nearly Lucky Number\obj\Debug\net5.0\A. Nearly Lucky Number.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Nearly Lucky Number\obj\Debug\net5.0\ref\A. Nearly Lucky Number.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Nearly Lucky Number\obj\Debug\net5.0\A. Nearly Lucky Number.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Nearly Lucky Number\obj\Debug\net5.0\A. Nearly Lucky Number.genruntimeconfig.cache

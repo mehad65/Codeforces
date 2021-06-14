@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\bin\Debug\net5.0\A. HQ9+.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\bin\Debug\net5.0\A. HQ9+.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\bin\Debug\net5.0\A. HQ9+.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\bin\Debug\net5.0\A. HQ9+.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\bin\Debug\net5.0\A. HQ9+.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\bin\Debug\net5.0\ref\A. HQ9+.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\bin\Debug\net5.0\A. HQ9+.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\obj\Debug\net5.0\A. HQ9+.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\obj\Debug\net5.0\A. HQ9+.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\obj\Debug\net5.0\A. HQ9+.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\obj\Debug\net5.0\A. HQ9+.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\obj\Debug\net5.0\A. HQ9+.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\obj\Debug\net5.0\ref\A. HQ9+.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\obj\Debug\net5.0\A. HQ9+.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\obj\Debug\net5.0\A. HQ9+.genruntimeconfig.cache
