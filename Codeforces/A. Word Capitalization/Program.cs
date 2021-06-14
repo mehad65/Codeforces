@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Globalization;
 
 namespace A._Word_Capitalization
 {
@@ -7,11 +6,12 @@ namespace A._Word_Capitalization
     {
         static void Main(string[] args)
         {
-            string str = Console.ReadLine();
-
-            str = str.Replace(str[0], char.ToUpper(str[0]));
-            //TextInfo currenttextinfo = CultureInfo.CurrentCulture.TextInfo;
-            //string result=currenttextinfo.ToTitleCase(str);
+            String str = Console.ReadLine();
+            
+            if (str[0]>='a' && str[0]<='z')
+            {
+                str = str.Substring(0,1).ToUpper()+ str.Substring(1, str.Length-1);
+            }
             Console.WriteLine(str);
         }
     }

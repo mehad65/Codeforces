@@ -27,13 +27,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Football", "A. Football\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Tram", "A. Tram\A. Tram.csproj", "{4260AF26-886C-4C29-8BF3-34BD07256D9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Ultra-Fast Mathematician", "A. Ultra-Fast Mathematician\A. Ultra-Fast Mathematician.csproj", "{E64626DD-225E-4C9A-A17B-33D9EC10159C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Ultra-Fast Mathematician", "A. Ultra-Fast Mathematician\A. Ultra-Fast Mathematician.csproj", "{E64626DD-225E-4C9A-A17B-33D9EC10159C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Elephant", "A. Elephant\A. Elephant.csproj", "{3BA09C9F-80F3-40E9-841D-2FE36E70DE88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Elephant", "A. Elephant\A. Elephant.csproj", "{3BA09C9F-80F3-40E9-841D-2FE36E70DE88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Vanya and Fence", "A. Vanya and Fence\A. Vanya and Fence.csproj", "{F052D1A2-25B0-4117-9FB2-3CEABAA72CAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Vanya and Fence", "A. Vanya and Fence\A. Vanya and Fence.csproj", "{F052D1A2-25B0-4117-9FB2-3CEABAA72CAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Wrong Subtraction", "A. Wrong Subtraction\A. Wrong Subtraction.csproj", "{292A1B5C-6E59-4E30-97B3-1F9E91D90AF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Wrong Subtraction", "A. Wrong Subtraction\A. Wrong Subtraction.csproj", "{292A1B5C-6E59-4E30-97B3-1F9E91D90AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Young Physicist", "A. Young Physicist\A. Young Physicist.csproj", "{56488752-B758-40BA-B3B1-46E114E2E5AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Word", "A. Word\A. Word.csproj", "{FC9F9863-A856-42F3-B340-2C5DFFF30BA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{292A1B5C-6E59-4E30-97B3-1F9E91D90AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{292A1B5C-6E59-4E30-97B3-1F9E91D90AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{292A1B5C-6E59-4E30-97B3-1F9E91D90AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56488752-B758-40BA-B3B1-46E114E2E5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56488752-B758-40BA-B3B1-46E114E2E5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56488752-B758-40BA-B3B1-46E114E2E5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56488752-B758-40BA-B3B1-46E114E2E5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9F9863-A856-42F3-B340-2C5DFFF30BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9F9863-A856-42F3-B340-2C5DFFF30BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9F9863-A856-42F3-B340-2C5DFFF30BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9F9863-A856-42F3-B340-2C5DFFF30BA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

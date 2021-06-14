@@ -15,8 +15,8 @@ namespace A._Tram
             for (int i = 0; i < a; i++)
             {
                 arr[i] = Console.ReadLine();
-                arr[i] = arr[i].Replace(" ", "");
-                s = (s - arr[i][0]) + arr[i][1];
+                string[] one = arr[i].Split();
+                s = s -Convert.ToInt32( one[0]) + Convert.ToInt32(one[1]);
                 mx = Math.Max(mx, s);
             }
             Console.WriteLine(mx);
