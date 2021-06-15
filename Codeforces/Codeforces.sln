@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. HQ9+", "A. HQ9+\A. HQ9+.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Even Odds", "A. Even Odds\A. Even Odds.csproj", "{3F776648-EE5F-406F-B64D-D9B0A535CD65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Soldier and Bananas", "A. Soldier and Bananas\A. Soldier and Bananas.csproj", "{127DA3C0-85D3-4E90-887D-EF68B4D3F9B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Soldier and Bananas", "A. Soldier and Bananas\A. Soldier and Bananas.csproj", "{127DA3C0-85D3-4E90-887D-EF68B4D3F9B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Chat room", "A. Chat room\A. Chat room.csproj", "{7EC6842E-4D85-40B7-A9D7-3564624DD3C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{127DA3C0-85D3-4E90-887D-EF68B4D3F9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{127DA3C0-85D3-4E90-887D-EF68B4D3F9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{127DA3C0-85D3-4E90-887D-EF68B4D3F9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC6842E-4D85-40B7-A9D7-3564624DD3C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC6842E-4D85-40B7-A9D7-3564624DD3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC6842E-4D85-40B7-A9D7-3564624DD3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC6842E-4D85-40B7-A9D7-3564624DD3C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
