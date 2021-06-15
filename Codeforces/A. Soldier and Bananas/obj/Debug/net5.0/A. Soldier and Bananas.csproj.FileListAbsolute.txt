@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\bin\Debug\net5.0\A. Soldier and Bananas.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\bin\Debug\net5.0\A. Soldier and Bananas.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\bin\Debug\net5.0\A. Soldier and Bananas.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\bin\Debug\net5.0\A. Soldier and Bananas.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\bin\Debug\net5.0\A. Soldier and Bananas.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\bin\Debug\net5.0\ref\A. Soldier and Bananas.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\bin\Debug\net5.0\A. Soldier and Bananas.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\obj\Debug\net5.0\A. Soldier and Bananas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\obj\Debug\net5.0\A. Soldier and Bananas.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\obj\Debug\net5.0\A. Soldier and Bananas.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\obj\Debug\net5.0\A. Soldier and Bananas.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\obj\Debug\net5.0\A. Soldier and Bananas.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\obj\Debug\net5.0\ref\A. Soldier and Bananas.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\obj\Debug\net5.0\A. Soldier and Bananas.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\obj\Debug\net5.0\A. Soldier and Bananas.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\obj\Debug\net5.0\A. Even Odds.csproj.AssemblyReference.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\obj\Debug\net5.0\A. Even Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\obj\Debug\net5.0\A. Even Odds.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\obj\Debug\net5.0\A. Even Odds.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\obj\Debug\net5.0\A. Even Odds.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\bin\Debug\net5.0\A. Even Odds.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\bin\Debug\net5.0\A. Even Odds.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\bin\Debug\net5.0\A. Even Odds.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\bin\Debug\net5.0\A. Even Odds.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\bin\Debug\net5.0\A. Even Odds.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\bin\Debug\net5.0\ref\A. Even Odds.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\bin\Debug\net5.0\A. Even Odds.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\obj\Debug\net5.0\A. Even Odds.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\obj\Debug\net5.0\ref\A. Even Odds.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\obj\Debug\net5.0\A. Even Odds.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Even Odds\obj\Debug\net5.0\A. Even Odds.genruntimeconfig.cache
