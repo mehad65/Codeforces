@@ -8,8 +8,9 @@ namespace A._Even_Odds
         {
             string input = Console.ReadLine();
             string[] arr = input.Split(" ");
-            int n = Convert.ToInt32(arr[0]);
-            int k = Convert.ToInt32(arr[1]);
+            long n = Convert.ToInt64(arr[0]);
+            long k = Convert.ToInt64(arr[1]);
+            
 
             if (n % 2 == 0)
             {

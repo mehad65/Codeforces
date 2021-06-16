@@ -13,3 +13,4 @@ C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\obj\Debug\net5.0
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\obj\Debug\net5.0\ref\A. Vanya and Fence.dll
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\obj\Debug\net5.0\A. Vanya and Fence.pdb
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\obj\Debug\net5.0\A. Vanya and Fence.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Vanya and Fence\obj\Debug\net5.0\A. Vanya and Fence.csproj.AssemblyReference.cache
