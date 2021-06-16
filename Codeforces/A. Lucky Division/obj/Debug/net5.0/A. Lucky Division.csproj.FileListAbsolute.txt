@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\bin\Debug\net5.0\A. Lucky Division.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\bin\Debug\net5.0\A. Lucky Division.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\bin\Debug\net5.0\A. Lucky Division.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\bin\Debug\net5.0\A. Lucky Division.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\bin\Debug\net5.0\A. Lucky Division.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\bin\Debug\net5.0\ref\A. Lucky Division.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\bin\Debug\net5.0\A. Lucky Division.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\obj\Debug\net5.0\A. Lucky Division.csproj.AssemblyReference.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\obj\Debug\net5.0\A. Lucky Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\obj\Debug\net5.0\A. Lucky Division.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\obj\Debug\net5.0\A. Lucky Division.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\obj\Debug\net5.0\A. Lucky Division.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\obj\Debug\net5.0\A. Lucky Division.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\obj\Debug\net5.0\ref\A. Lucky Division.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\obj\Debug\net5.0\A. Lucky Division.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Lucky Division\obj\Debug\net5.0\A. Lucky Division.genruntimeconfig.cache

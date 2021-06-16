@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "A. Next Round/1.0.0": {
+        "runtime": {
+          "A. Next Round.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Next Round/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

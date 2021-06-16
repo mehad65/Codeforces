@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Translation\bin\Debug\net5.0\A. Translation.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Translation\bin\Debug\net5.0\A. Translation.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Translation\bin\Debug\net5.0\A. Translation.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Translation\bin\Debug\net5.0\A. Translation.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Translation\bin\Debug\net5.0\A. Translation.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Translation\bin\Debug\net5.0\ref\A. Translation.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Translation\bin\Debug\net5.0\A. Translation.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Translation\obj\Debug\net5.0\A. Translation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Translation\obj\Debug\net5.0\A. Translation.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Translation\obj\Debug\net5.0\A. Translation.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Translation\obj\Debug\net5.0\A. Translation.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Translation\obj\Debug\net5.0\A. Translation.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Translation\obj\Debug\net5.0\ref\A. Translation.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Translation\obj\Debug\net5.0\A. Translation.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Translation\obj\Debug\net5.0\A. Translation.genruntimeconfig.cache

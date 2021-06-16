@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\bin\Debug\net5.0\A. Twins.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\bin\Debug\net5.0\A. Twins.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\bin\Debug\net5.0\A. Twins.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\bin\Debug\net5.0\A. Twins.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\bin\Debug\net5.0\A. Twins.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\bin\Debug\net5.0\ref\A. Twins.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\bin\Debug\net5.0\A. Twins.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\obj\Debug\net5.0\A. Twins.csproj.AssemblyReference.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\obj\Debug\net5.0\A. Twins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\obj\Debug\net5.0\A. Twins.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\obj\Debug\net5.0\A. Twins.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\obj\Debug\net5.0\A. Twins.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\obj\Debug\net5.0\A. Twins.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\obj\Debug\net5.0\ref\A. Twins.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\obj\Debug\net5.0\A. Twins.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Twins\obj\Debug\net5.0\A. Twins.genruntimeconfig.cache

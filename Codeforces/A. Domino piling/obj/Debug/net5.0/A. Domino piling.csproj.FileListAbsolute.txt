@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Domino piling\bin\Debug\net5.0\A. Domino piling.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Domino piling\bin\Debug\net5.0\A. Domino piling.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Domino piling\bin\Debug\net5.0\A. Domino piling.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Domino piling\bin\Debug\net5.0\A. Domino piling.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Domino piling\bin\Debug\net5.0\A. Domino piling.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Domino piling\bin\Debug\net5.0\ref\A. Domino piling.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Domino piling\bin\Debug\net5.0\A. Domino piling.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Domino piling\obj\Debug\net5.0\A. Domino piling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Domino piling\obj\Debug\net5.0\A. Domino piling.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Domino piling\obj\Debug\net5.0\A. Domino piling.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Domino piling\obj\Debug\net5.0\A. Domino piling.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Domino piling\obj\Debug\net5.0\A. Domino piling.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Domino piling\obj\Debug\net5.0\ref\A. Domino piling.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Domino piling\obj\Debug\net5.0\A. Domino piling.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Domino piling\obj\Debug\net5.0\A. Domino piling.genruntimeconfig.cache

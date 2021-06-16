@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\bin\Debug\net5.0\A. Chat room.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\bin\Debug\net5.0\A. Chat room.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\bin\Debug\net5.0\A. Chat room.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\bin\Debug\net5.0\A. Chat room.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\bin\Debug\net5.0\A. Chat room.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\bin\Debug\net5.0\ref\A. Chat room.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\bin\Debug\net5.0\A. Chat room.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\obj\Debug\net5.0\A. Chat room.csproj.AssemblyReference.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\obj\Debug\net5.0\A. Chat room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\obj\Debug\net5.0\A. Chat room.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\obj\Debug\net5.0\A. Chat room.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\obj\Debug\net5.0\A. Chat room.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\obj\Debug\net5.0\A. Chat room.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\obj\Debug\net5.0\ref\A. Chat room.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\obj\Debug\net5.0\A. Chat room.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Chat room\obj\Debug\net5.0\A. Chat room.genruntimeconfig.cache
