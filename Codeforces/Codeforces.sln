@@ -63,7 +63,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Next Round", "A. Next Ro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Domino piling", "A. Domino piling\A. Domino piling.csproj", "{E523C15F-E65D-4CBD-B166-F10C7D44F142}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Helpful Maths", "A. Helpful Maths\A. Helpful Maths.csproj", "{69BF7B96-23C0-4E82-A476-57431621094C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Helpful Maths", "A. Helpful Maths\A. Helpful Maths.csproj", "{69BF7B96-23C0-4E82-A476-57431621094C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Beautiful Year", "A. Beautiful Year\A. Beautiful Year.csproj", "{7DE2B7AB-5EE6-40CD-A8E2-84DEE72402EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Drinks", "B. Drinks\B. Drinks.csproj", "{2B27F9C5-9E0B-4331-B06B-834A9CFD6396}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +199,14 @@ Global
 		{69BF7B96-23C0-4E82-A476-57431621094C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69BF7B96-23C0-4E82-A476-57431621094C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69BF7B96-23C0-4E82-A476-57431621094C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE2B7AB-5EE6-40CD-A8E2-84DEE72402EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE2B7AB-5EE6-40CD-A8E2-84DEE72402EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE2B7AB-5EE6-40CD-A8E2-84DEE72402EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE2B7AB-5EE6-40CD-A8E2-84DEE72402EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B27F9C5-9E0B-4331-B06B-834A9CFD6396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B27F9C5-9E0B-4331-B06B-834A9CFD6396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B27F9C5-9E0B-4331-B06B-834A9CFD6396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B27F9C5-9E0B-4331-B06B-834A9CFD6396}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
