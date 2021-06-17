@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\bin\Debug\net5.0\A. Helpful Maths.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\bin\Debug\net5.0\A. Helpful Maths.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\bin\Debug\net5.0\A. Helpful Maths.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\bin\Debug\net5.0\A. Helpful Maths.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\bin\Debug\net5.0\A. Helpful Maths.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\bin\Debug\net5.0\ref\A. Helpful Maths.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\bin\Debug\net5.0\A. Helpful Maths.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\obj\Debug\net5.0\A. Helpful Maths.csproj.AssemblyReference.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\obj\Debug\net5.0\A. Helpful Maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\obj\Debug\net5.0\A. Helpful Maths.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\obj\Debug\net5.0\A. Helpful Maths.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\obj\Debug\net5.0\A. Helpful Maths.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\obj\Debug\net5.0\A. Helpful Maths.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\obj\Debug\net5.0\ref\A. Helpful Maths.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\obj\Debug\net5.0\A. Helpful Maths.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Helpful Maths\obj\Debug\net5.0\A. Helpful Maths.genruntimeconfig.cache
