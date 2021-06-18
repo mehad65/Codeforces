@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. George and Accommodation\bin\Debug\net5.0\A. George and Accommodation.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. George and Accommodation\bin\Debug\net5.0\A. George and Accommodation.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. George and Accommodation\bin\Debug\net5.0\A. George and Accommodation.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. George and Accommodation\bin\Debug\net5.0\A. George and Accommodation.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. George and Accommodation\bin\Debug\net5.0\A. George and Accommodation.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. George and Accommodation\bin\Debug\net5.0\ref\A. George and Accommodation.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. George and Accommodation\bin\Debug\net5.0\A. George and Accommodation.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. George and Accommodation\obj\Debug\net5.0\A. George and Accommodation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. George and Accommodation\obj\Debug\net5.0\A. George and Accommodation.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. George and Accommodation\obj\Debug\net5.0\A. George and Accommodation.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. George and Accommodation\obj\Debug\net5.0\A. George and Accommodation.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. George and Accommodation\obj\Debug\net5.0\A. George and Accommodation.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. George and Accommodation\obj\Debug\net5.0\ref\A. George and Accommodation.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. George and Accommodation\obj\Debug\net5.0\A. George and Accommodation.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. George and Accommodation\obj\Debug\net5.0\A. George and Accommodation.genruntimeconfig.cache

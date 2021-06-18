@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Drinks\bin\Debug\net5.0\B. Drinks.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Drinks\bin\Debug\net5.0\B. Drinks.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Drinks\bin\Debug\net5.0\B. Drinks.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Drinks\bin\Debug\net5.0\B. Drinks.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Drinks\bin\Debug\net5.0\B. Drinks.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Drinks\bin\Debug\net5.0\ref\B. Drinks.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Drinks\bin\Debug\net5.0\B. Drinks.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Drinks\obj\Debug\net5.0\B. Drinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Drinks\obj\Debug\net5.0\B. Drinks.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Drinks\obj\Debug\net5.0\B. Drinks.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Drinks\obj\Debug\net5.0\B. Drinks.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Drinks\obj\Debug\net5.0\B. Drinks.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Drinks\obj\Debug\net5.0\ref\B. Drinks.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Drinks\obj\Debug\net5.0\B. Drinks.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Drinks\obj\Debug\net5.0\B. Drinks.genruntimeconfig.cache

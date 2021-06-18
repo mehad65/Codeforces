@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\bin\Debug\net5.0\A. Theatre Square.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\bin\Debug\net5.0\A. Theatre Square.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\bin\Debug\net5.0\A. Theatre Square.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\bin\Debug\net5.0\A. Theatre Square.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\bin\Debug\net5.0\A. Theatre Square.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\bin\Debug\net5.0\ref\A. Theatre Square.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\bin\Debug\net5.0\A. Theatre Square.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\obj\Debug\net5.0\A. Theatre Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\obj\Debug\net5.0\A. Theatre Square.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\obj\Debug\net5.0\A. Theatre Square.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\obj\Debug\net5.0\A. Theatre Square.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\obj\Debug\net5.0\A. Theatre Square.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\obj\Debug\net5.0\ref\A. Theatre Square.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\obj\Debug\net5.0\A. Theatre Square.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\obj\Debug\net5.0\A. Theatre Square.genruntimeconfig.cache

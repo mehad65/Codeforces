@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\bin\Debug\net5.0\A. Hulk.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\bin\Debug\net5.0\A. Hulk.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\bin\Debug\net5.0\A. Hulk.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\bin\Debug\net5.0\A. Hulk.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\bin\Debug\net5.0\A. Hulk.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\bin\Debug\net5.0\ref\A. Hulk.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\bin\Debug\net5.0\A. Hulk.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\obj\Debug\net5.0\A. Hulk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\obj\Debug\net5.0\A. Hulk.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\obj\Debug\net5.0\A. Hulk.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\obj\Debug\net5.0\A. Hulk.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\obj\Debug\net5.0\A. Hulk.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\obj\Debug\net5.0\ref\A. Hulk.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\obj\Debug\net5.0\A. Hulk.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\obj\Debug\net5.0\A. Hulk.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Hulk\obj\Debug\net5.0\A. Hulk.csproj.AssemblyReference.cache

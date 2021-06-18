@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\bin\Debug\net5.0\A. Beautiful Year.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\bin\Debug\net5.0\A. Beautiful Year.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\bin\Debug\net5.0\A. Beautiful Year.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\bin\Debug\net5.0\A. Beautiful Year.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\bin\Debug\net5.0\A. Beautiful Year.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\bin\Debug\net5.0\ref\A. Beautiful Year.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\bin\Debug\net5.0\A. Beautiful Year.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\obj\Debug\net5.0\A. Beautiful Year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\obj\Debug\net5.0\A. Beautiful Year.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\obj\Debug\net5.0\A. Beautiful Year.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\obj\Debug\net5.0\A. Beautiful Year.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\obj\Debug\net5.0\A. Beautiful Year.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\obj\Debug\net5.0\ref\A. Beautiful Year.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\obj\Debug\net5.0\A. Beautiful Year.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\obj\Debug\net5.0\A. Beautiful Year.genruntimeconfig.cache

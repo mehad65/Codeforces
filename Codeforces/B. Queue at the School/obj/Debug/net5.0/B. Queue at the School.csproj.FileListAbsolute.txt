@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\bin\Debug\net5.0\B. Queue at the School.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\bin\Debug\net5.0\B. Queue at the School.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\bin\Debug\net5.0\B. Queue at the School.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\bin\Debug\net5.0\B. Queue at the School.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\bin\Debug\net5.0\B. Queue at the School.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\bin\Debug\net5.0\ref\B. Queue at the School.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\bin\Debug\net5.0\B. Queue at the School.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\obj\Debug\net5.0\B. Queue at the School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\obj\Debug\net5.0\B. Queue at the School.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\obj\Debug\net5.0\B. Queue at the School.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\obj\Debug\net5.0\B. Queue at the School.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\obj\Debug\net5.0\B. Queue at the School.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\obj\Debug\net5.0\ref\B. Queue at the School.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\obj\Debug\net5.0\B. Queue at the School.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\obj\Debug\net5.0\B. Queue at the School.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Queue at the School\obj\Debug\net5.0\B. Queue at the School.csproj.AssemblyReference.cache
