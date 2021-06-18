@@ -13,3 +13,4 @@ C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\obj\Debug\net5.0\A. HQ9+.dl
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\obj\Debug\net5.0\ref\A. HQ9+.dll
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\obj\Debug\net5.0\A. HQ9+.pdb
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\obj\Debug\net5.0\A. HQ9+.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. HQ9+\obj\Debug\net5.0\A. HQ9+.csproj.AssemblyReference.cache

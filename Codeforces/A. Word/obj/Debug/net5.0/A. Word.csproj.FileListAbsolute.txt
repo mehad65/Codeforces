@@ -13,3 +13,4 @@ C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\obj\Debug\net5.0\A. Word.dl
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\obj\Debug\net5.0\ref\A. Word.dll
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\obj\Debug\net5.0\A. Word.pdb
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\obj\Debug\net5.0\A. Word.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Word\obj\Debug\net5.0\A. Word.csproj.AssemblyReference.cache
