@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\obj\Debug\net5.0\A. Presents.csproj.AssemblyReference.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\obj\Debug\net5.0\A. Presents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\obj\Debug\net5.0\A. Presents.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\obj\Debug\net5.0\A. Presents.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\obj\Debug\net5.0\A. Presents.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\bin\Debug\net5.0\A. Presents.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\bin\Debug\net5.0\A. Presents.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\bin\Debug\net5.0\A. Presents.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\bin\Debug\net5.0\A. Presents.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\bin\Debug\net5.0\A. Presents.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\bin\Debug\net5.0\ref\A. Presents.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\bin\Debug\net5.0\A. Presents.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\obj\Debug\net5.0\A. Presents.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\obj\Debug\net5.0\ref\A. Presents.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\obj\Debug\net5.0\A. Presents.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Presents\obj\Debug\net5.0\A. Presents.genruntimeconfig.cache

@@ -13,3 +13,4 @@ C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Anton and Danik\obj\Debug\net5.0
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Anton and Danik\obj\Debug\net5.0\ref\A. Anton and Danik.dll
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Anton and Danik\obj\Debug\net5.0\A. Anton and Danik.pdb
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Anton and Danik\obj\Debug\net5.0\A. Anton and Danik.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Anton and Danik\obj\Debug\net5.0\A. Anton and Danik.csproj.AssemblyReference.cache

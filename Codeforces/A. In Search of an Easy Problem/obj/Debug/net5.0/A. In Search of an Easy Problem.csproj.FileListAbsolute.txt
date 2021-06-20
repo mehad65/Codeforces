@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. In Search of an Easy Problem\bin\Debug\net5.0\A. In Search of an Easy Problem.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. In Search of an Easy Problem\bin\Debug\net5.0\A. In Search of an Easy Problem.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. In Search of an Easy Problem\bin\Debug\net5.0\A. In Search of an Easy Problem.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. In Search of an Easy Problem\bin\Debug\net5.0\A. In Search of an Easy Problem.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. In Search of an Easy Problem\bin\Debug\net5.0\A. In Search of an Easy Problem.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. In Search of an Easy Problem\bin\Debug\net5.0\ref\A. In Search of an Easy Problem.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. In Search of an Easy Problem\bin\Debug\net5.0\A. In Search of an Easy Problem.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. In Search of an Easy Problem\obj\Debug\net5.0\A. In Search of an Easy Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. In Search of an Easy Problem\obj\Debug\net5.0\A. In Search of an Easy Problem.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. In Search of an Easy Problem\obj\Debug\net5.0\A. In Search of an Easy Problem.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. In Search of an Easy Problem\obj\Debug\net5.0\A. In Search of an Easy Problem.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. In Search of an Easy Problem\obj\Debug\net5.0\A. In Search of an Easy Problem.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. In Search of an Easy Problem\obj\Debug\net5.0\ref\A. In Search of an Easy Problem.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. In Search of an Easy Problem\obj\Debug\net5.0\A. In Search of an Easy Problem.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. In Search of an Easy Problem\obj\Debug\net5.0\A. In Search of an Easy Problem.genruntimeconfig.cache

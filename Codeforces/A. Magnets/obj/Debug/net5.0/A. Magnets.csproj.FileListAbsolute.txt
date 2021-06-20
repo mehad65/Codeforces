@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Magnets\bin\Debug\net5.0\A. Magnets.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Magnets\bin\Debug\net5.0\A. Magnets.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Magnets\bin\Debug\net5.0\A. Magnets.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Magnets\bin\Debug\net5.0\A. Magnets.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Magnets\bin\Debug\net5.0\A. Magnets.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Magnets\bin\Debug\net5.0\ref\A. Magnets.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Magnets\bin\Debug\net5.0\A. Magnets.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Magnets\obj\Debug\net5.0\A. Magnets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Magnets\obj\Debug\net5.0\A. Magnets.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Magnets\obj\Debug\net5.0\A. Magnets.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Magnets\obj\Debug\net5.0\A. Magnets.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Magnets\obj\Debug\net5.0\A. Magnets.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Magnets\obj\Debug\net5.0\ref\A. Magnets.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Magnets\obj\Debug\net5.0\A. Magnets.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Magnets\obj\Debug\net5.0\A. Magnets.genruntimeconfig.cache

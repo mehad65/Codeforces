@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\bin\Debug\net5.0\B. Taxi.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\bin\Debug\net5.0\B. Taxi.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\bin\Debug\net5.0\B. Taxi.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\bin\Debug\net5.0\B. Taxi.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\bin\Debug\net5.0\B. Taxi.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\bin\Debug\net5.0\ref\B. Taxi.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\bin\Debug\net5.0\B. Taxi.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\obj\Debug\net5.0\B. Taxi.csproj.AssemblyReference.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\obj\Debug\net5.0\B. Taxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\obj\Debug\net5.0\B. Taxi.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\obj\Debug\net5.0\B. Taxi.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\obj\Debug\net5.0\B. Taxi.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\obj\Debug\net5.0\B. Taxi.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\obj\Debug\net5.0\ref\B. Taxi.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\obj\Debug\net5.0\B. Taxi.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Taxi\obj\Debug\net5.0\B. Taxi.genruntimeconfig.cache

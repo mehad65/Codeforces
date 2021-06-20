@@ -13,3 +13,4 @@ C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Next Round\obj\Debug\net5.0\A. N
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Next Round\obj\Debug\net5.0\ref\A. Next Round.dll
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Next Round\obj\Debug\net5.0\A. Next Round.pdb
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Next Round\obj\Debug\net5.0\A. Next Round.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Next Round\obj\Debug\net5.0\A. Next Round.csproj.AssemblyReference.cache

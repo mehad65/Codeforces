@@ -13,3 +13,4 @@ C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\obj\Debug\net5.0\
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\obj\Debug\net5.0\ref\A. Theatre Square.dll
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\obj\Debug\net5.0\A. Theatre Square.pdb
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\obj\Debug\net5.0\A. Theatre Square.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Theatre Square\obj\Debug\net5.0\A. Theatre Square.csproj.AssemblyReference.cache
