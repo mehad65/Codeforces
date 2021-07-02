@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "B. Seating On Bus/1.0.0": {
+        "runtime": {
+          "B. Seating On Bus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Seating On Bus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\bin\Debug\net5.0\A. Comparing Two Long Integers.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\bin\Debug\net5.0\A. Comparing Two Long Integers.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\bin\Debug\net5.0\A. Comparing Two Long Integers.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\bin\Debug\net5.0\A. Comparing Two Long Integers.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\bin\Debug\net5.0\A. Comparing Two Long Integers.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\bin\Debug\net5.0\ref\A. Comparing Two Long Integers.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\bin\Debug\net5.0\A. Comparing Two Long Integers.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\obj\Debug\net5.0\A. Comparing Two Long Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\obj\Debug\net5.0\A. Comparing Two Long Integers.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\obj\Debug\net5.0\A. Comparing Two Long Integers.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\obj\Debug\net5.0\A. Comparing Two Long Integers.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\obj\Debug\net5.0\A. Comparing Two Long Integers.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\obj\Debug\net5.0\ref\A. Comparing Two Long Integers.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\obj\Debug\net5.0\A. Comparing Two Long Integers.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\obj\Debug\net5.0\A. Comparing Two Long Integers.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Comparing Two Long Integers\obj\Debug\net5.0\A. Comparing Two Long Integers.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\bin\Debug\net5.0\B. Seating On Bus.exe
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\bin\Debug\net5.0\B. Seating On Bus.deps.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\bin\Debug\net5.0\B. Seating On Bus.runtimeconfig.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\bin\Debug\net5.0\B. Seating On Bus.runtimeconfig.dev.json
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\bin\Debug\net5.0\B. Seating On Bus.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\bin\Debug\net5.0\ref\B. Seating On Bus.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\bin\Debug\net5.0\B. Seating On Bus.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\obj\Debug\net5.0\B. Seating On Bus.csproj.AssemblyReference.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\obj\Debug\net5.0\B. Seating On Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\obj\Debug\net5.0\B. Seating On Bus.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\obj\Debug\net5.0\B. Seating On Bus.AssemblyInfo.cs
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\obj\Debug\net5.0\B. Seating On Bus.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\obj\Debug\net5.0\B. Seating On Bus.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\obj\Debug\net5.0\ref\B. Seating On Bus.dll
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\obj\Debug\net5.0\B. Seating On Bus.pdb
+C:\Users\mehad\Desktop\Codeforces\Codeforces\B. Seating On Bus\obj\Debug\net5.0\B. Seating On Bus.genruntimeconfig.cache

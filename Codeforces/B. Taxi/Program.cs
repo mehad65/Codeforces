@@ -9,7 +9,7 @@ namespace B._Taxi
             int a = int.Parse(Console.ReadLine());
             string input = Console.ReadLine().Replace(" ", "");
             int countOne = 0;
-            int  countTwo = 0;
+            int countTwo = 0;
             int countThree = 0;
             int countFour = 0;
             int countTaxi = 0;
@@ -33,7 +33,7 @@ namespace B._Taxi
                 }
             }
             countTaxi = countFour;
-            while (countOne != 0 && countThree!=0)
+            while (countOne != 0 && countThree != 0)
             {
                 countThree = countThree - 1;
                 countOne = countOne - 1;
@@ -44,16 +44,19 @@ namespace B._Taxi
                 countTaxi = countTwo / 2 + countTaxi;
                 if (countTwo % 2 != 0)
                 {
-                    if (countOne >1)
+                    if (countOne > 1)
                     {
                         countOne = countOne - 2;
                         countTaxi = countTaxi + 1;
                         countTwo = 0;
+                        
                     }
                     else
                     {
                         countTaxi++;
                         countTwo = 0;
+                        if (countOne == 1)
+                            countOne--;
                     }
                 }
             }
@@ -66,13 +69,11 @@ namespace B._Taxi
                 countTaxi = countTaxi + countOne / 4;
                 if (countOne % 4 != 0)
                 {
-                    countTaxi = countTaxi + countOne;
+                    countTaxi = countTaxi + 1;
                     countOne = 0;
                 }
             }
             Console.WriteLine(countTaxi);
-            
-
         }
     }
 }

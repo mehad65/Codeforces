@@ -77,13 +77,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. George and Accommodation
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Hulk", "A. Hulk\A. Hulk.csproj", "{53EA3471-703D-4051-BD8F-17604861C9A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Presents", "A. Presents\A. Presents.csproj", "{61FB2F97-5818-49C3-B12A-660B4B97D0E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Presents", "A. Presents\A. Presents.csproj", "{61FB2F97-5818-49C3-B12A-660B4B97D0E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Magnets", "A. Magnets\A. Magnets.csproj", "{84994B13-452D-436A-8530-91928417683B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Magnets", "A. Magnets\A. Magnets.csproj", "{84994B13-452D-436A-8530-91928417683B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. In Search of an Easy Problem", "A. In Search of an Easy Problem\A. In Search of an Easy Problem.csproj", "{FEF56BB8-6676-4C60-AEAF-666EED8CE258}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. In Search of an Easy Problem", "A. In Search of an Easy Problem\A. In Search of an Easy Problem.csproj", "{FEF56BB8-6676-4C60-AEAF-666EED8CE258}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Taxi", "B. Taxi\B. Taxi.csproj", "{6C3D1833-1EB0-48F0-9523-10689706BF6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Taxi", "B. Taxi\B. Taxi.csproj", "{6C3D1833-1EB0-48F0-9523-10689706BF6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Seating On Bus", "B. Seating On Bus\B. Seating On Bus.csproj", "{9FBC8AE2-6D05-4ABE-AFA1-A5A40DEDF2AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Football 2", "A. Football 2\A. Football 2.csproj", "{96F35DE4-D740-416D-A02E-26D3011D84AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Comparing Two Long Integers", "A. Comparing Two Long Integers\A. Comparing Two Long Integers.csproj", "{70BC14FA-88AB-40CB-BA5E-F5D395252457}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +261,18 @@ Global
 		{6C3D1833-1EB0-48F0-9523-10689706BF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C3D1833-1EB0-48F0-9523-10689706BF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C3D1833-1EB0-48F0-9523-10689706BF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FBC8AE2-6D05-4ABE-AFA1-A5A40DEDF2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBC8AE2-6D05-4ABE-AFA1-A5A40DEDF2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBC8AE2-6D05-4ABE-AFA1-A5A40DEDF2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBC8AE2-6D05-4ABE-AFA1-A5A40DEDF2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F35DE4-D740-416D-A02E-26D3011D84AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F35DE4-D740-416D-A02E-26D3011D84AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F35DE4-D740-416D-A02E-26D3011D84AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F35DE4-D740-416D-A02E-26D3011D84AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BC14FA-88AB-40CB-BA5E-F5D395252457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BC14FA-88AB-40CB-BA5E-F5D395252457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BC14FA-88AB-40CB-BA5E-F5D395252457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BC14FA-88AB-40CB-BA5E-F5D395252457}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

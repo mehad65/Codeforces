@@ -13,3 +13,4 @@ C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\obj\Debug\ne
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\obj\Debug\net5.0\ref\A. Soldier and Bananas.dll
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\obj\Debug\net5.0\A. Soldier and Bananas.pdb
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\obj\Debug\net5.0\A. Soldier and Bananas.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Soldier and Bananas\obj\Debug\net5.0\A. Soldier and Bananas.csproj.AssemblyReference.cache

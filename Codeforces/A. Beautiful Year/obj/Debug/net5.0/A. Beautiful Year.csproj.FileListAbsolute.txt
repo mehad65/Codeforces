@@ -13,3 +13,4 @@ C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\obj\Debug\net5.0\
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\obj\Debug\net5.0\ref\A. Beautiful Year.dll
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\obj\Debug\net5.0\A. Beautiful Year.pdb
 C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\obj\Debug\net5.0\A. Beautiful Year.genruntimeconfig.cache
+C:\Users\mehad\Desktop\Codeforces\Codeforces\A. Beautiful Year\obj\Debug\net5.0\A. Beautiful Year.csproj.AssemblyReference.cache
